@@ -1,4 +1,4 @@
- Shooter x Shooter
+# Shooter x Shooter
 
 ## A minimal videogame creates using [Raylib-J]([GitHub - CreedVI/Raylib-J: Handmade Java binding for Raylib](https://github.com/CreedVI/Raylib-J)) and Java
 
