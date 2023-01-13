@@ -1,7 +1,5 @@
 # Shooter x Shooter
-
-## A minimal videogame creates using [Raylib-J]([GitHub - CreedVI/Raylib-J: Handmade Java binding for Raylib](https://github.com/CreedVI/Raylib-J)) and Java
-
+## A minimal videogame creates using [Raylib-J](https://github.com/CreedVI/Raylib-J"GitHub - CreedVI/Raylib-J: Handmade Java binding for Raylib") and Java
 ### Rules of the Game:
 
 - Collect five "Bullet Pieces" to form a bullet
