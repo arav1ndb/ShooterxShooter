@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShooterxShooter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShooterxShooter_jar</output-path>
+    <root id="archive" name="ShooterxShooter.jar">
+      <element id="module-output" name="ShooterxShooter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Raylib-J_0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
