@@ -12,8 +12,8 @@
   
 - Try to beat your own time and break into the leaderboard !!🤠
 
-### Screenshots  
-![Titlescreen](Screenshots/Screenshot 2023-01-13 080332.png)
+### Screenshots available in folder!!!
+
 ### Created by
 
 - Aravinda Balaji K
